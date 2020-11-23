@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhendunegi/Tic-Tac-Toe.git"
+  },
+  "author": "Shubhendu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhendunegi/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/shubhendunegi/Tic-Tac-Toe#readme"
+}
